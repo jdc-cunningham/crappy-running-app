@@ -24,3 +24,21 @@ A concern is how much data I can store, I think 1 second at a time is not bad...
  Going to kick off this github pages... gotta get this prototype done in like 50 mins or less so I can have some daylight left to actually run.
 
  My fear is it will stop working/not collect data.
+
+ How it works is every say 100 seconds it will push a group into the localStorage so that I don't have to worry about the variables getting too big/accidentally losing data.
+
+ I'll have to piece the data together later.
+
+ Oh I need a way to export this data though hmm...
+
+ Maybe I can add the UI update later and pull it from localStorage still
+
+ Ahh I don't know what to make of these different sensors looks like some take out gravity for example, some combine... also this ticking thing vs. on demand (what I wanted)
+
+ Crap I'm out of time, need to just get location data
+
+ Ugh I'm out of time, running is what matters, I gotta get out there
+
+ ![it ain't much meme](./sucks.JPG)
+
+ Gotta turn on the Omni-man song where he murders the Flaxan planet
