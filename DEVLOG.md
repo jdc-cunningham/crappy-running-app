@@ -42,3 +42,46 @@ A concern is how much data I can store, I think 1 second at a time is not bad...
  ![it ain't much meme](./sucks.JPG)
 
  Gotta turn on the Omni-man song where he murders the Flaxan planet
+
+### return from "running"
+
+ Well that was a failure
+
+ I had a couple of dumb things happen like I'd switch to my music player and I would lose all data(the web tab would disappear). Or I would try to scroll down but I didn't have overflow in so I would accidentally refresh the entire page... ahh. But I did get some samples, some learning points.
+
+ Like I think 2 seconds is too much sampling for the speed I'm moving.
+
+ Also I guess it does not take that much time for me to do my stuff. Two laps is about 30 minutes, I'm spending most of my time walking currently because the arches of my feet are on fire from the hill/divots in the ground.
+
+ Still this is cool, developing something I want to use and need to do "defensive coding" due to not being able to change anything at the field.
+
+ I still have to gather samples of each acceleration type, I'll probably do testing indoors first.
+
+ Shots of the hill
+
+![entrance](./hill.png)
+
+![looking at entrance](./from-the-end.JPG)
+
+It is a nice little area see the lake
+
+![the lake](./lake.JPG)
+
+The actual data
+
+![2 minute sample](./2-minutes.JPG)
+
+Another one
+
+![another data sample](./another.JPG)
+
+wtf these coordinates don't match oh no...
+
+39.1501877,-94.7898527 (correct)
+39.2151788,-94.7563776 (what I measured)
+
+I don't understand this how is it so bad, GPS apps have it almost perfect... hmm wonder if it it's the tower
+
+geolocationl.watchPosition sounds good vs. calling/invoking everytime
+
+maybe [this](https://stackoverflow.com/questions/16202077/high-accuracy-geolocation-html5), anyway I'm super burnt, will put more time into this
